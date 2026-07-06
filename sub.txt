@@ -1,1 +1,2 @@
 wireguard://2Prfl%2Fm76%2B8sb8JrcjpJziuPKm%2BYJ7GLJmIKOSL6UVc%3D@8.6.112.187:1701?publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&address=172.16.0.2/32, 2606:4700:110:8a3c:7051:8e47:54c0:81f9/128&mtu=1280#WARP
+vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.19.53.216:2096?type=ws&security=tls&fp=chrome&sni=crimson-mountain-e8de.rminnewtest18.workers.dev&path=%2F&host=crimson-mountain-e8de.rminnewtest18.workers.dev#CF%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%891
